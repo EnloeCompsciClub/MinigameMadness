@@ -1,0 +1,7 @@
+D:\MinigameMadness\android\build\intermediates\classes\debug
+D:\MinigameMadness\android\build\intermediates\pre-dexed\debug\core-1.0-7f1310b8c2c6186238bbec399c61b86c2a90289a.jar
+D:\MinigameMadness\android\build\intermediates\pre-dexed\debug\tween-engine-api-e98fbcf05a1a6ff9b74095a080c6808d467bb8f8.jar
+D:\MinigameMadness\android\build\intermediates\pre-dexed\debug\tween-engine-api-sources-1d34e1c5d6a39d4a81a8e1545d939942cda1f9dd.jar
+D:\MinigameMadness\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.3-50b2593367396ca1fc32e31d9a8df2169cab7df6.jar
+D:\MinigameMadness\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.3-9e388a693d54ff74c97e575d2cb8e8a0495bdc22.jar
+D:\MinigameMadness\android\build\intermediates\pre-dexed\debug\gdx-1.5.3-208b0f631944178dcaea8ad045afed4421664ba6.jar
