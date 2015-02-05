@@ -57,7 +57,7 @@ public class Pipe extends Scrollable {
 				SKULL_WIDTH, SKULL_HEIGHT);
 
 	}
-
+	//always use @Override when overriding methods from parent classes, it's conventional
 	@Override
 	public void reset(float newX) {
 		// Call the reset method in the superclass (Scrollable)
