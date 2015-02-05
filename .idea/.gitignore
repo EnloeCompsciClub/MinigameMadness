@@ -34,3 +34,6 @@ proguard/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+#workspace annoying thing
+workspace.xml
